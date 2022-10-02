@@ -1,4 +1,4 @@
 # Proyecto-Unity-basico
 Proyecto Unity basico
 
-![gif](./gif/Proyecto Unity.gif)
+![gif](./GIF/proyecto.gif)
